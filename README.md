@@ -1,2 +1,0 @@
-# respaldo
-codigo en linux 
