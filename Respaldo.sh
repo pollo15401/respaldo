@@ -1,5 +1,5 @@
 # respaldo
-codigo en linux 
+# codigo en linux 
 DESTINO="$HOME/Respaldo"
 
 respaldo() {
